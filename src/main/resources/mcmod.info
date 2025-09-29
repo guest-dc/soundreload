@@ -2,12 +2,11 @@
 {
   "modid": "soundreload",
   "name": "SoundReload",
-  "description": "Fixes the legacy LWJGL OpenAL sound system crash on modern systems.",
+  "description": "Fixes the sound system crash on modern systems caused by an old LWJGL OpenAL version.",
   "version": "1.0",
   "mcversion": "1.7.10",
-  "url": "",
+  "url": "https://github.com/guest-dc/soundreload",
   "authorList": ["guest-dc"],
-  "logoFile": "",
-  "dependencies": []
+  "logoFile": "icon.png",
 }
 ]
