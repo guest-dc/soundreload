@@ -1,4 +1,7 @@
-name: Build and Release Mod
+name: Build and Release Jar
+
+permissions:
+  contents: write
 
 on:
   push:
